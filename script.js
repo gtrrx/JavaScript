@@ -123,3 +123,31 @@ function verificarPalindromo(palavra) {
 console.log(verificarPalindromo("hello")); 
 
 console.log(verificarPalindromo("arara")); 
+
+
+
+
+
+
+
+function atividade14(){
+
+    console.log
+
+    let texto = prompt('Digite texto palavra azul');
+
+    console.log(texto.replace)
+}
+
+
+
+
+
+let myString = "campainhas";
+
+myString.length = 4;
+console.log(myString);
+
+console.log(myString.length);
+
+
